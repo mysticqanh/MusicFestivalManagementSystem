@@ -1,0 +1,23 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+
+# C# build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# NuGet generated packages
+packages/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
